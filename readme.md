@@ -27,12 +27,29 @@
 
 ---
 
+## 📘 Education 📘
+
+| Period | Institution | Program / Degree | Major | Details |
+| --- | --- | --- | --- | --- |
+| 2020.03 ~ 2026.02 | 국립창원대학교 | 학사 | 컴퓨터공학 | - 주요 과목: 자료구조, 객체지향프로그래밍, 데이터베이스, 소프트웨어공학, 영상처리 등<br>- 학점: 4.1 / 4.5<br>- AI 연구실 활동 및 캡스톤/졸업작품 프로젝트 참여 |
+| 2025.07 ~ 2026.01 | 그린컴퓨터아카데미<br>BNK부산은행 금융DT 아카데미 | 개발자 양성과정 | 생성형 AI 활용, Java, Spring, Flutter | - 디지털 금융, 데이터 모델링, Java/Spring Boot, Flutter 학습<br>- 금융 서비스 웹/앱 프로젝트 수행<br>- FLOBANK 1차·2차 프로젝트 최우수상 수상 |
+
+---
+
+## 💼 Experience 💼
+
+| Period | Organization | Role | Details |
+| --- | --- | --- | --- |
+| 2023.12 ~ 2025.07 | 국립창원대학교 IBDP 연구실 | 학부연구생 | - AI 연구, 세미나, 논문 작성, 저작권 출원 참여<br>- Rain2FloodNet 연구 및 논문 작성 참여<br>- SAFE S Viewer DB 모델링 참여<br>- 서비스 개발 프로젝트 참여: ReactJS, Next.js, TypeScript, Styled-components, AWS S3 |
+
+---
+
 ## 🏆 Awards
 
 | Award | Project | Highlight |
 | --- | --- | --- |
-| 🏆 최우수상 | **FLOBANK 1차** | 인터넷뱅킹, 외환, 해외송금, AI 챗봇, TCP/IP 전문 통신 기반 은행 서비스 |
-| 🏆 최우수상 | **FLOBANK 2차** | AI 음성 비서와 OCR을 활용한 외환 특화 모바일 뱅킹 앱 |
+| 🏆 최우수상 | [**FLOBANK 1차**](https://github.com/henu-1004/FLOBANK-Project1) | 인터넷뱅킹, 외환, 해외송금, AI 챗봇, TCP/IP 전문 통신 기반 은행 서비스 |
+| 🏆 최우수상 | [**FLOBANK 2차**](https://github.com/henu-1004/FLOBANK_Project2) | AI 음성 비서와 OCR을 활용한 외환 특화 모바일 뱅킹 앱 |
 
 > 부산은행 × 그린컴퓨터아카데미 산학 협력 프로젝트에서 실제 은행 업무 흐름을 참고해 웹/앱 기반 금융 서비스를 설계하고 구현했습니다.
 
@@ -73,14 +90,14 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| 🏦 **FLOBANK 1차** | 채널계 API 서버와 계정계 Core Banking 서버를 분리하고 TCP/IP 전문 통신으로 연동한 차세대 뱅킹 서비스 | Spring Boot, Oracle, Redis, Elasticsearch, OpenAI, Python |
-| 🏦 **FLOBANK 2차** | 환율 조회, 환전, 외화예금, 외화송금을 AI 음성 비서와 OCR 흐름으로 연결한 모바일 뱅킹 앱 | Flutter, Spring Boot, Oracle, Redis, GCP, GitHub Actions |
-| 🌿 **GreenGarden** | 쇼핑몰, 마이페이지, 고객센터, 관리자 시스템을 통합 구현한 이커머스 웹 애플리케이션 | Java 17, Spring Boot, Spring Security, MyBatis, JPA, Oracle, AWS EC2 |
-| 🌧️ **Rain2FloodNet** | 강우 조건에 따른 도시 침수흔적도를 생성하는 Conditional GAN 기반 연구 프로젝트<br />[논문 보기](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12318845) | Python, PyTorch, Pix2Pix, FiLM, WGAN-GP |
-| 🐾 **SAFE S Viewer** | 동물병원 수술 마취 기록 데이터를 구조화하고 관리하는 반응형 웹 애플리케이션 | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
-| 🥬 **AgricInfo** | 농산물 정보 검색, 경락 데이터 시각화, AI 가격 예측 기능을 제공하는 농산물 정보 웹 애플리케이션 | React, JavaScript, Python, MariaDB, PyTorch |
-| 🖼️ **UNet Semantic Segmentation** | 자체 라벨링 데이터셋을 활용한 도로 환경 이미지 픽셀 단위 분할 프로젝트 | Python, PyTorch, U-Net, COCO JSON, SegFormer |
-| 🚶‍♂️ **Obstacle Detection App** | YOLOv8, Kalman Filter, MiDaS를 활용한 시각장애인 보행자 위험 감지 시스템 | YOLOv8, MiDaS, OpenCV, React Native, Node.js |
+| 🏦 [**FLOBANK 1차**](https://github.com/henu-1004/FLOBANK-Project1) | 채널계 API 서버와 계정계 Core Banking 서버를 분리하고 TCP/IP 전문 통신으로 연동한 차세대 뱅킹 서비스 | Spring Boot, Oracle, Redis, Elasticsearch, OpenAI, Python |
+| 🏦 [**FLOBANK 2차**](https://github.com/henu-1004/FLOBANK_Project2) | 환율 조회, 환전, 외화예금, 외화송금을 AI 음성 비서와 OCR 흐름으로 연결한 모바일 뱅킹 앱 | Flutter, Spring Boot, Oracle, Redis, GCP, GitHub Actions |
+| 🌿 [**GreenGarden**](https://github.com/henu-1004/GreenGarden) | 쇼핑몰, 마이페이지, 고객센터, 관리자 시스템을 통합 구현한 이커머스 웹 애플리케이션 | Java 17, Spring Boot, Spring Security, MyBatis, JPA, Oracle, AWS EC2 |
+| 🌧️ [**Rain2FloodNet**](https://github.com/henu-1004/Rain2FloodNet) | 강우 조건에 따른 도시 침수흔적도를 생성하는 Conditional GAN 기반 연구 프로젝트<br />[논문 보기](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12318845) | Python, PyTorch, Pix2Pix, FiLM, WGAN-GP |
+| 🐾 [**SAFE S Viewer**](https://github.com/henu-1004/SAFE-S-Anesthesia-Record-System) | 동물병원 수술 마취 기록 데이터를 구조화하고 관리하는 반응형 웹 애플리케이션 | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
+| 🥬 [**AgricInfo**](https://github.com/henu-1004/Software-Engineering) | 농산물 정보 검색, 경락 데이터 시각화, AI 가격 예측 기능을 제공하는 농산물 정보 웹 애플리케이션 | React, JavaScript, Python, MariaDB, PyTorch |
+| 🖼️ [**UNet Semantic Segmentation**](https://github.com/henu-1004/UNet-Semantic-Segmentation) | 자체 라벨링 데이터셋을 활용한 도로 환경 이미지 픽셀 단위 분할 프로젝트 | Python, PyTorch, U-Net, COCO JSON, SegFormer |
+| 🚶‍♂️ [**Obstacle Detection App**](https://github.com/henu-1004/Obstacle-Detection-App-for-Visually-Impaired) | YOLOv8, Kalman Filter, MiDaS를 활용한 시각장애인 보행자 위험 감지 시스템 | YOLOv8, MiDaS, OpenCV, React Native, Node.js |
 
 ---
 
@@ -88,10 +105,11 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| 🌱 **GreenUniv** | 대학 홈페이지와 학사 관리 기능을 함께 제공하는 Servlet/JSP 기반 웹 애플리케이션 | Java, Servlet, JSP, MySQL, Tomcat |
-| 📝 **Express MySQL Board** | 세션, CRUD, 댓글, 좋아요, 페이지네이션을 구현한 게시판 프로젝트 | Node.js, Express, MySQL, EJS, jQuery |
-| 🌐 **TCP / UDP Socket Programming** | TCP·UDP 통신 구조와 네트워크 환경별 Throughput을 비교한 소켓 프로그래밍 프로젝트 | C, BSD Socket API, Ubuntu, netEM |
-| 🎮 **Text Tetris & VITE** | 터미널 기반 테트리스 게임과 vi 스타일 콘솔 텍스트 에디터 | C, curses, Makefile, Data Structure |
+| 🌱 [**GreenUniv**](https://github.com/henu-1004/GreenUniv) | 대학 홈페이지와 학사 관리 기능을 함께 제공하는 Servlet/JSP 기반 웹 애플리케이션 | Java, Servlet, JSP, MySQL, Tomcat |
+| 📝 [**Express MySQL Board**](https://github.com/henu-1004/Board) | 세션, CRUD, 댓글, 좋아요, 페이지네이션을 구현한 게시판 프로젝트 | Node.js, Express, MySQL, EJS, jQuery |
+| 🌐 [**TCP / UDP Socket Programming**](https://github.com/henu-1004/TCP-UDP-Socket-Programming) | TCP·UDP 통신 구조와 네트워크 환경별 Throughput을 비교한 소켓 프로그래밍 프로젝트 | C, BSD Socket API, Ubuntu, netEM |
+| 🎮 [**Text Tetris**](https://github.com/henu-1004/Text-Tetris) & [**VITE**](https://github.com/henu-1004/VisualText-Editor-vite-) | 터미널 기반 테트리스 게임과 vi 스타일 콘솔 텍스트 에디터 | C, curses, Makefile, Data Structure |
+
 ---
 
 ## 📚 Seminar & Study
