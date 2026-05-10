@@ -11,6 +11,7 @@
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-henu--1004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/henu-1004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web%20Portfolio-3e64ff?style=flat-square&logo=vercel&logoColor=white)](https://henu-1004.github.io/web-porfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-5223sho%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:5223sho@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-sho5223%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:sho5223@naver.com)
 
@@ -144,6 +145,7 @@
 신입 개발자로서 꾸준히 배우고 성장하며,  
 팀에 안정적으로 기여할 수 있는 개발자가 되고자 합니다.
 
+**Portfolio** · [henu-1004.github.io/web-porfolio](https://henu-1004.github.io/web-porfolio/)<br />
 **Email** · [5223sho@gmail.com](mailto:5223sho@gmail.com) / [sho5223@naver.com](mailto:sho5223@naver.com)<br />
 **GitHub** · [github.com/henu-1004](https://github.com/henu-1004)
 
