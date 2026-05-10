@@ -5,7 +5,7 @@
 코드가 실제 서비스와 문제 해결로 연결되는 과정에 흥미를 느끼며 개발을 시작했습니다.  
 웹 서비스, 데이터베이스, AI 프로젝트를 경험하며 서비스 구조와 데이터 흐름을 이해하는 개발자로 성장하고 있습니다.
 
-전체 구조를 먼저 파악하고 정해진 흐름에 맞춰 안정적으로 구현하는 것을 중요하게 생각하며,  
+전체 구조를 먼저 파악하고, 일관된 기준에 따라 안정적으로 구현하는 것을 중요하게 생각합니다.  
 개발 과정에서 얻은 지식을 문서화하고 공유하여 팀과 함께 성장하는 개발자를 지향합니다.
 
 <br />
@@ -81,7 +81,9 @@
 | 🥬 **AgricInfo** | 농산물 정보 검색, 경락 데이터 시각화, AI 가격 예측 기능을 제공하는 농산물 정보 웹 애플리케이션 | React, JavaScript, Python, MariaDB, PyTorch |
 | 🖼️ **UNet Semantic Segmentation** | 자체 라벨링 데이터셋을 활용한 도로 환경 이미지 픽셀 단위 분할 프로젝트 | Python, PyTorch, U-Net, COCO JSON, SegFormer |
 | 🚶‍♂️ **Obstacle Detection App** | YOLOv8, Kalman Filter, MiDaS를 활용한 시각장애인 보행자 위험 감지 시스템 | YOLOv8, MiDaS, OpenCV, React Native, Node.js |
+
 ---
+
 ## 📂 Other Projects
 
 | Project | Description | Tech |
