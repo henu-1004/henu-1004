@@ -30,7 +30,7 @@
 ## 📘 Education 📘
 
 | Period | Institution | Program / Degree | Major | Details |
-| --- | --- | --- | --- | --- |
+| ----- | --- | --- | --- | --- |
 | 2020.03 ~ 2026.02 | 국립창원대학교 | 학사 | 컴퓨터공학 | - 주요 과목: 자료구조, 객체지향프로그래밍, 데이터베이스, 소프트웨어공학, 영상처리 등<br>- 학점: 4.1 / 4.5<br>- AI 연구실 활동 및 캡스톤/졸업작품 프로젝트 참여 |
 | 2025.07 ~ 2026.01 | 그린컴퓨터아카데미<br>BNK부산은행 금융DT 아카데미 | 개발자 양성과정 | 생성형 AI 활용, Java, Spring, Flutter | - 디지털 금융, 데이터 모델링, Java/Spring Boot, Flutter 학습<br>- 금융 서비스 웹/앱 프로젝트 수행<br>- FLOBANK 1차·2차 프로젝트 최우수상 수상 |
 
@@ -39,7 +39,7 @@
 ## 💼 Experience 💼
 
 | Period | Organization | Role | Details |
-| --- | --- | --- | --- |
+| ----- | --- | --- | --- |
 | 2023.12 ~ 2025.07 | 국립창원대학교 IBDP 연구실 | 학부연구생 | - AI 연구, 세미나, 논문 작성, 저작권 출원 참여<br>- Rain2FloodNet 연구 및 논문 작성 참여<br>- SAFE S Viewer DB 모델링 참여<br>- 서비스 개발 프로젝트 참여: ReactJS, Next.js, TypeScript, Styled-components, AWS S3 |
 
 ---
@@ -113,7 +113,7 @@
 ---
 
 ## 📚 Seminar & Study
-
+[Seminar Archive](https://github.com/henu-1004/Seminar-Archive)
 `Big Data` · `PCA` · `TorchTune / LLM Fine-tuning` · `Feature Engineering` · `Streaming / Kafka` · `Flood Prediction Model`
 
 ---
