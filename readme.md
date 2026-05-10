@@ -29,12 +29,13 @@
 
 ## 🏆 Awards
 
-| Award | Project | Highlight |
-| --- | --- | --- |
-| 🏆 최우수상 | [**FLOBANK 1차**](https://github.com/henu-1004/FLOBANK-Project1) | 인터넷뱅킹, 외환, 해외송금, AI 챗봇, TCP/IP 전문 통신 기반 은행 서비스 |
-| 🏆 최우수상 | [**FLOBANK 2차**](https://github.com/henu-1004/FLOBANK_Project2) | AI 음성 비서와 OCR을 활용한 외환 특화 모바일 뱅킹 앱 |
+| Date | Award | Project | Organization |
+| --- | --- | --- | --- |
+| 2025.11 | 🏆 최우수상 | [**FLOBANK 1차**](https://github.com/henu-1004/FLOBANK-Project1) | BNK부산은행 · 그린컴퓨터아카데미 부산 · KSA한국표준협회 |
+| 2026.01 | 🏆 최우수상 | [**FLOBANK 2차**](https://github.com/henu-1004/FLOBANK_Project2) | BNK부산은행 · 그린컴퓨터아카데미 부산 · KSA한국표준협회 |
 
-> 부산은행 × 그린컴퓨터아카데미 산학 협력 프로젝트에서 실제 은행 업무 흐름을 참고해 웹/앱 기반 금융 서비스를 설계하고 구현했습니다.
+> (BNK부산은행) 금융DT 아카데미 개발자 양성과정 팀 프로젝트에서  
+> FLOBANK 1차 웹 프로젝트와 FLOBANK 2차 앱 프로젝트 모두 최우수상을 수상했습니다.
 
 ---
 
