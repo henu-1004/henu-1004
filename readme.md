@@ -22,7 +22,7 @@
 - 🧩 웹 서비스, 데이터베이스, AI 프로젝트를 경험하며 서비스가 동작하는 전체 흐름을 이해하려고 노력합니다.
 - 🏦 금융 서비스 프로젝트를 통해 인증, 계좌, 외환, 송금, AI 기능 연동 등 실제 도메인 기반 개발을 경험했습니다.
 - 🗃️ 데이터 구조와 DB 설계를 중요하게 생각하며, 기능이 안정적으로 동작할 수 있는 기반을 고민합니다.
-- 🤖 Computer Vision, 생성형 AI, OCR, 음성 비서 등 AI 기술을 서비스에 연결하는 프로젝트를 경험했습니다.
+- 🤖 Computer Vision, 생성형 AI, OCR, 음성 비서, 가격 예측 모델 등 AI 기술을 서비스에 연결하는 프로젝트를 경험했습니다.
 - 📝 프로젝트 과정에서 얻은 지식과 의사결정 내용을 문서화하여 팀이 함께 이해할 수 있는 협업 방식을 지향합니다.
 
 ---
@@ -76,14 +76,20 @@
 | 🏦 **FLOBANK 1차** | 채널계 API 서버와 계정계 Core Banking 서버를 분리하고 TCP/IP 전문 통신으로 연동한 차세대 뱅킹 서비스 | Spring Boot, Oracle, Redis, Elasticsearch, OpenAI, Python |
 | 🏦 **FLOBANK 2차** | 환율 조회, 환전, 외화예금, 외화송금을 AI 음성 비서와 OCR 흐름으로 연결한 모바일 뱅킹 앱 | Flutter, Spring Boot, Oracle, Redis, GCP, GitHub Actions |
 | 🌿 **GreenGarden** | 쇼핑몰, 마이페이지, 고객센터, 관리자 시스템을 통합 구현한 이커머스 웹 애플리케이션 | Java 17, Spring Boot, Spring Security, MyBatis, JPA, Oracle, AWS EC2 |
-| 🌱 **GreenUniv** | 대학 홈페이지와 학사 관리 기능을 함께 제공하는 Servlet/JSP 기반 웹 애플리케이션 | Java, Servlet, JSP, MySQL, Tomcat |
-| 🌧️ **Rain2FloodNet** | 강우 조건에 따른 도시 침수흔적도를 생성하는 Conditional GAN 기반 연구 프로젝트 | Python, PyTorch, Pix2Pix, FiLM, WGAN-GP |
-| 🐾 **SAFE S Viewer** | 동물병원 수술 마취 기록을 실시간으로 관리하는 반응형 웹 애플리케이션 | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
+| 🌧️ **Rain2FloodNet** | 강우 조건에 따른 도시 침수흔적도를 생성하는 Conditional GAN 기반 연구 프로젝트<br />[논문 보기](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12318845) | Python, PyTorch, Pix2Pix, FiLM, WGAN-GP |
+| 🐾 **SAFE S Viewer** | 동물병원 수술 마취 기록 데이터를 구조화하고 관리하는 반응형 웹 애플리케이션 | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
+| 🥬 **AgricInfo** | 농산물 정보 검색, 경락 데이터 시각화, AI 가격 예측 기능을 제공하는 농산물 정보 웹 애플리케이션 | React, JavaScript, Python, MariaDB, PyTorch |
 | 🖼️ **UNet Semantic Segmentation** | 자체 라벨링 데이터셋을 활용한 도로 환경 이미지 픽셀 단위 분할 프로젝트 | Python, PyTorch, U-Net, COCO JSON, SegFormer |
+| 🚶‍♂️ **Obstacle Detection App** | YOLOv8, Kalman Filter, MiDaS를 활용한 시각장애인 보행자 위험 감지 시스템 | YOLOv8, MiDaS, OpenCV, React Native, Node.js |
+---
+## 📂 Other Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| 🌱 **GreenUniv** | 대학 홈페이지와 학사 관리 기능을 함께 제공하는 Servlet/JSP 기반 웹 애플리케이션 | Java, Servlet, JSP, MySQL, Tomcat |
 | 📝 **Express MySQL Board** | 세션, CRUD, 댓글, 좋아요, 페이지네이션을 구현한 게시판 프로젝트 | Node.js, Express, MySQL, EJS, jQuery |
 | 🌐 **TCP / UDP Socket Programming** | TCP·UDP 통신 구조와 네트워크 환경별 Throughput을 비교한 소켓 프로그래밍 프로젝트 | C, BSD Socket API, Ubuntu, netEM |
 | 🎮 **Text Tetris & VITE** | 터미널 기반 테트리스 게임과 vi 스타일 콘솔 텍스트 에디터 | C, curses, Makefile, Data Structure |
-
 ---
 
 ## 📚 Seminar & Study
