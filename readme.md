@@ -63,6 +63,17 @@
 
 ---
 
+## 📜 Certifications & Language
+
+| Date | Certification | Organization |
+| --- | --- | --- |
+| 2025.12 | 정보처리기사 | 한국산업인력공단 |
+| 2024.12 | SQLD(SQL 개발자) | 한국데이터베이스진흥센터 |
+| 2017.03 | 컴퓨터활용능력 2급 | 대한상공회의소 |
+| 2026.01 | TOEIC Speaking 120 / Intermediate Mid 2 | ETS |
+
+---
+
 ## 💼 Experience
 
 ### 국립창원대학교 IBDP 연구실
