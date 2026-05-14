@@ -114,7 +114,7 @@
 | 🏦 [**FLOBANK 2차**](https://github.com/henu-1004/FLOBANK_Project2) | 환율 조회, 환전, 외화예금, 외화송금을 AI 음성 비서와 OCR 흐름으로 연결한 모바일 뱅킹 앱 | Flutter, Spring Boot, Oracle, Redis, GCP, GitHub Actions |
 | 🌿 [**GreenGarden**](https://github.com/henu-1004/GreenGarden) | 쇼핑몰, 마이페이지, 고객센터, 관리자 시스템을 통합 구현한 이커머스 웹 애플리케이션 | Java 17, Spring Boot, Spring Security, MyBatis, JPA, Oracle, AWS EC2 |
 | 🌧️ [**Rain2FloodNet**](https://github.com/henu-1004/Rain2FloodNet) | 강우 조건에 따른 도시 침수흔적도를 생성하는 Conditional GAN 기반 연구 프로젝트<br />[논문 보기](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12318845) | Python, PyTorch, Pix2Pix, FiLM, WGAN-GP |
-| 🐾 [**SAFE S Viewer**](https://github.com/henu-1004/SAFE-S-Anesthesia-Record-System) | 동물병원 수술 마취 기록 데이터를 구조화하고 관리하는 반응형 웹 애플리케이션 | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
+| 🐾 [**SAFE S Viewer**](https://github.com/henu-1004/SAFE-S-Anesthesia-Record-System) | 동물병원 수술 마취 기록 데이터를 구조화하고 관리하는 반응형 웹 애플리케이션<br />[저작권 등록 정보 보기](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/cmmn/convenientDtl.xml&regId=C-2024-056314) | Flutter Web, FastAPI, MariaDB, WebSocket, Kafka |
 | 🥬 [**AgricInfo**](https://github.com/henu-1004/Software-Engineering) | 농산물 정보 검색, 경락 데이터 시각화, AI 가격 예측 기능을 제공하는 농산물 정보 웹 애플리케이션 | React, JavaScript, Python, MariaDB, PyTorch |
 | 🖼️ [**UNet Semantic Segmentation**](https://github.com/henu-1004/UNet-Semantic-Segmentation) | 자체 라벨링 데이터셋을 활용한 도로 환경 이미지 픽셀 단위 분할 프로젝트 | Python, PyTorch, U-Net, COCO JSON, SegFormer |
 | 🚶‍♂️ [**Obstacle Detection App**](https://github.com/henu-1004/Obstacle-Detection-App-for-Visually-Impaired) | YOLOv8, Kalman Filter, MiDaS를 활용한 시각장애인 보행자 위험 감지 시스템 | YOLOv8, MiDaS, OpenCV, React Native, Node.js |
